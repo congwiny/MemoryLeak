@@ -25,5 +25,4 @@ public class MyView extends View{
             System.out.print("有被调用");
         }
     };
-
 }

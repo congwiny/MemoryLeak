@@ -11,5 +11,5 @@ public class ListenerCollector {
     public static void clearListeners(){
         //移除所有监听。
         sListener.clear();
-    };
+    }
 }
